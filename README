@@ -1,0 +1,22 @@
+#	Perl5 Libwww-perlWin32   Martin.Cleaver@BCS.org.uk    Release 2.1   22/Feb/1997
+#								
+#			This script may be distributed under the same 
+#			terms and conditions as Perl itself.
+#
+#	Libwww-perl (LWP) is a library of Perl modules that facilitate 
+#	easy programming of the WWW. LWP can be found at:
+#		http://www.perl.com/cgi-bin/cpan_mod?module=LWP
+#	or:	http://www.sn.no/libwww-perl/
+#
+#	lwpWin32 is a Quick'n'Dirty Script to patch libwww-perl-5 to less 
+#	up-to-date platforms.
+# 	I see this being useful in two scenarios:
+#		1) to use LWP in a Win32 environment
+#		2) to use LWP where Perl 5.003 is not available 
+#				(this use is untested)
+#
+#	lwpWin32 has been tested with LWP 5.05 and appears to work fine under
+#	5.07. 
+#
+# INSTRUCTIONS AT THE TOP OF THE SCRIPT!
+
